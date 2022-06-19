@@ -6,7 +6,7 @@ function Navbar() {
   return (
     <nav className="navbar navbar-light bg-secondary py-3">
       <div className="container-fluid">
-        <div className='brand'>Ecommerce Tech Shop</div>
+        <div className='brand'>Male Fashion Shop</div>
         <div className='basket'><FiShoppingCart /></div>
       </div>
     </nav>
